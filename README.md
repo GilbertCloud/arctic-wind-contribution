@@ -8,11 +8,15 @@ Created by Ash Gilbert (ash.gilbert@colorado.edu) and contact them for any quest
 
 ## Structure
 
-- PI-moremelt: contains the run scripts, namelists, and code modifications for the PI-moremelt run and has its own README file with more detail
-- PiC_UVnudge: contains the run scripts, namelists, and code modifications for the PiC_UVnudge runs and has its own README file with more detail
-- PiC_UVnudge_LM: contains the run scripts, namelists, and code modifications for the PiC_UVnudge_LM runs and has its own README file with more detail
-- PiC_UVnudge_MM: contains the run scripts, namelists, and code modifications for the PiC_UVnudge_MM runs and has its own README file with more detail
-- PInudge: contains the run scripts, namelists, and code modifications for the PInudge runs and has its own README file with more detail
-- PInudge-lessmelt: contains the run scripts, namelists, and code modifications for the PInudge-lessmelt runs and has its own README file with more detail
-- PInudge-moremelt: contains the run scripts, namelists, and code modifications for the PInudge-moremelt runs and has its own README file with more detail
-- PiC_UVnudge_2006_2000: contains the run scripts, namelists, and code modifications for the PiC_UVnudge_2006_2000 run and has its own README file with more detail
+All folders contain their own READMEs with more detail
+
+- PI-moremelt: contains the run scripts, namelists, and code modifications for the PI-moremelt run
+- PiC_UVnudge: contains the run scripts, namelists, and code modifications for the PiC_UVnudge runs 
+- PiC_UVnudge_LM: contains the run scripts, namelists, and code modifications for the PiC_UVnudge_LM runs 
+- PiC_UVnudge_MM: contains the run scripts, namelists, and code modifications for the PiC_UVnudge_MM runs
+- PInudge: contains the run scripts, namelists, and code modifications for the PInudge runs
+- PInudge-lessmelt: contains the run scripts, namelists, and code modifications for the PInudge-lessmelt runs
+- PInudge-moremelt: contains the run scripts, namelists, and code modifications for the PInudge-moremelt runs 
+- PiC_UVnudge_2006_2000: contains the run scripts, namelists, and code modifications for the PiC_UVnudge_2006_2000 run 
+- processing_code: contains all Jupyter notebooks for processing single-variable timeseries to plottable data 
+- plotting_code: contains all Jupyter notebooks for making paper plots 
