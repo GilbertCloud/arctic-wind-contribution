@@ -1,6 +1,6 @@
 # arctic-wind-contribution
 
-[![DOI](Zenodo badge)](Zenodo link)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15377261.svg)](https://doi.org/10.5281/zenodo.15377261)
 
 This repository contains the run scripts, namelists, and code modifications for all of the experiments in the submitted paper "Observed Winds Alone Cannot Explain Recent Arctic Warming and Sea Ice Loss" by Ash L. Gilbert, Jennifer E. Kay, Edward Blanchard-Wrigglesworth, David A. Bailey, Marika M. Holland, Alexandra Jahn, and David P. Schneider.
 
